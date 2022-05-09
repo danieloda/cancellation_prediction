@@ -8,3 +8,7 @@ cancelamentos, de modo que a empresa tenha tempo hábil para agir com ações de
 ## Instalar bibliotecas 
 
 Rodar " pip install -r requirements.txt "
+
+### Obs
+
+Fiz as visualizações pela biblioteca "plotly", os gráficos não aparecem ao visualizar o notebook pelo github.
